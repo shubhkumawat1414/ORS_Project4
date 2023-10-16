@@ -24,8 +24,8 @@ public class MarksheetTest {
 		// testDelete();
 		//testUpdate();
 		// testFindByRollNo();
-		// testFindByPK();
-		 testSearch();
+		 testFindByPK();
+		// testSearch();
 		// testList();
 		// testMeritList();
 	}

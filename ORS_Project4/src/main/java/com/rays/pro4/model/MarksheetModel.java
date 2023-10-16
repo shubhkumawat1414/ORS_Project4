@@ -26,7 +26,6 @@ public class MarksheetModel {
 	Logger log = Logger.getLogger(MarksheetModel.class);
 
 	/**
-	 * 
 	 * Used to find record in database by non bussiness primarykey
 	 */
 

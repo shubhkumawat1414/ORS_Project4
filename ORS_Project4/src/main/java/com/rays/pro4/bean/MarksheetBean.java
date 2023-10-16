@@ -8,12 +8,12 @@ package com.rays.pro4.bean;
  */
 public class MarksheetBean extends BaseBean{
 
-	private String rollNo;
-	private long studentld;
-	private String name;
-	private Integer physics;
-	private Integer chemistry;
-	private Integer maths;
+	protected String rollNo;
+	protected long studentld;
+	protected String name;
+	protected Integer physics;
+	protected Integer chemistry;
+	protected Integer maths;
 	public String getRollNo() {
 		return rollNo;
 	}
